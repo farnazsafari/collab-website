@@ -18,7 +18,7 @@ head(cars)
 ```
 
 Here is a giraffe!
-[](https://upload.wikimedia.org/wikipedia/commons/0/0b/Giraffe_face_FLA.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Giraffe_face_FLA.jpg)
 
 ## Including Plots
 
