@@ -17,6 +17,9 @@ When you click the **Knit** button a document will be generated that includes bo
 head(cars)
 ```
 
+Here is a giraffe!
+[](https://upload.wikimedia.org/wikipedia/commons/0/0b/Giraffe_face_FLA.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
