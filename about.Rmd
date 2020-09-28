@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Old Faithful Eruption Waiting Time
 
-
+![](https://yellowstone.net/geysers/wp-content/uploads/sites/2/2011/02/oldfaithful2.jpg)
 ```{r pressure, echo=FALSE}
 plot(faithful, pch=16, col="blue")
 
